@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sperrin7009-Frontend-Reddit/static/css/main.00aac7c7.chunk.css",
+    "main.js": "/sperrin7009-Frontend-Reddit/static/js/main.698d1a75.chunk.js",
+    "main.js.map": "/sperrin7009-Frontend-Reddit/static/js/main.698d1a75.chunk.js.map",
+    "runtime-main.js": "/sperrin7009-Frontend-Reddit/static/js/runtime-main.9e5d0a0c.js",
+    "runtime-main.js.map": "/sperrin7009-Frontend-Reddit/static/js/runtime-main.9e5d0a0c.js.map",
+    "static/css/2.6be2adcb.chunk.css": "/sperrin7009-Frontend-Reddit/static/css/2.6be2adcb.chunk.css",
+    "static/js/2.42e0efb7.chunk.js": "/sperrin7009-Frontend-Reddit/static/js/2.42e0efb7.chunk.js",
+    "static/js/2.42e0efb7.chunk.js.map": "/sperrin7009-Frontend-Reddit/static/js/2.42e0efb7.chunk.js.map",
+    "static/js/3.3db4da53.chunk.js": "/sperrin7009-Frontend-Reddit/static/js/3.3db4da53.chunk.js",
+    "static/js/3.3db4da53.chunk.js.map": "/sperrin7009-Frontend-Reddit/static/js/3.3db4da53.chunk.js.map",
+    "index.html": "/sperrin7009-Frontend-Reddit/index.html",
+    "static/css/2.6be2adcb.chunk.css.map": "/sperrin7009-Frontend-Reddit/static/css/2.6be2adcb.chunk.css.map",
+    "static/css/main.00aac7c7.chunk.css.map": "/sperrin7009-Frontend-Reddit/static/css/main.00aac7c7.chunk.css.map",
+    "static/js/2.42e0efb7.chunk.js.LICENSE.txt": "/sperrin7009-Frontend-Reddit/static/js/2.42e0efb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e5d0a0c.js",
+    "static/css/2.6be2adcb.chunk.css",
+    "static/js/2.42e0efb7.chunk.js",
+    "static/css/main.00aac7c7.chunk.css",
+    "static/js/main.698d1a75.chunk.js"
+  ]
+}
