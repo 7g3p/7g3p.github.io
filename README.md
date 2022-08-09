@@ -1,2 +1,2 @@
 # 7g3p.github.io
-Frontend Reddit Post Scraper Assignment
+Personal Projects and About Me
